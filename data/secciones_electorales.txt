@@ -1,0 +1,1 @@
+https://mapa2.electoral.gov.ar:443/geoserver/wfs?authkey=c8fbd9593851046376fd8e2fa58d005b?service=WFS&version=1.0.0&request=GetFeature&authkey=c8fbd9593851046376fd8e2fa58d005b&typeName=descargas:secciones_electorales&maxFeatures=2000&outputFormat=SHAPE-ZIP
